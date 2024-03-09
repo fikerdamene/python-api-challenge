@@ -8,7 +8,7 @@ This project utilizes Python to generate random geographic coordinates and creat
 
 Getting Started
 
-To run the project, we will need the following dependencies installed:
+To run the project, the following dependencies are installed:
 
 Matplotlib
 Pandas
